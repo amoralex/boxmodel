@@ -1,0 +1,21 @@
+.caja30{
+	width: 50px;
+	height: 50px;
+	border: solid blue 1px ;
+	background-color: red;
+	/*margin-left: 10px;*/
+	margin-top: 10px;
+	display: inline-block;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+.caja90{
+	width: 150px;
+	height: auto;
+	border: solid blue 1px ;
+	/*background-color: red;
+	/*margin-left: 10px;*/
+	margin-top: 10px;
+
+
+}
